@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api ?username=PhilRandWu )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api ?PhilRandWu=anuraghazra&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 
 [![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 [![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")

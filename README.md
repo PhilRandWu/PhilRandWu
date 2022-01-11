@@ -7,28 +7,26 @@
 
 
 
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ-3378814052-red.svg "博客搭建交流")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流")
+[![Mail Badge](https://img.shields.io/badge/-PhilRandWu@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:PhilRandWu@163.com)](mailto:PhilRandWu@163.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm PhilRandWu
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- 💬 Ask me about JavaScript, TypeScript, Node, PHP and my projects on [PhilRandWu@163.com](mailto:PhilRandWu@163.com)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- 💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![ES6](https://img.shields.io/badge/-ES6-333333?style=flat&logo=ES6)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🌐 &#160; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Element](https://img.shields.io/badge/-Element-333333?style=flat&logo=Element)
+![Ant Design](https://img.shields.io/badge/-Ant Design-333333?style=flat&logo=Ant Design)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -38,7 +36,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
 - [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 - [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
 - [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
@@ -50,10 +47,10 @@
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [个人网站](http://120.55.40.96/)
+- [CSDN](https://PhilRandWu.blog.csdn.net/)
+- [微博](http://weibo.com/您呼叫的用户正在长头发)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+⭐️ From [PhilRandWu](https://github.com/PhilRandWu)

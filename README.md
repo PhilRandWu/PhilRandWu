@@ -1,4 +1,5 @@
 ## Hello GitHub Fans 👋
+部分项目无法开源 望理解
 ![Metrics](https://metrics.lecoq.io/PhilRandWu?template=classic&config.timezone=Asia%2FShanghai)
 
 [![PhilRandWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilRandWu)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +17,7 @@
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about JavaScript, TypeScript, Node, PHP and my projects on [PhilRandWu@163.com](mailto:PhilRandWu@163.com)
+- 💬 Ask me about JavaScript, TypeScript, Node, PHP, 简单的算法及设计模式 and my projects on [PhilRandWu@163.com](mailto:PhilRandWu@163.com)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -26,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🌐 &#160; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Element](https://img.shields.io/badge/-Element-333333?style=flat&logo=Element)
-![Ant Design](https://img.shields.io/badge/-Ant Design-333333?style=flat&logo=Ant Design)
+![Ant Design](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

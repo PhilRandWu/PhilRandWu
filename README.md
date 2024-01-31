@@ -8,7 +8,6 @@
 
 
 
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ-3378814052-red.svg "博客搭建交流")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流")
 [![Mail Badge](https://img.shields.io/badge/-PhilRandWu@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:PhilRandWu@163.com)](mailto:PhilRandWu@163.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
@@ -38,6 +37,7 @@
 ![Vue SSR](https://img.shields.io/badge/-Vue%20SSR-333333?style=flat&logo=vuessr)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ### 开源项目
 - [博客网站基于nodejs的后端接口](https://github.com/PhilRandWu/node_serve)
@@ -48,8 +48,6 @@
 
 
 - [个人网站](http://120.55.40.96/)
-- [CSDN](https://PhilRandWu.blog.csdn.net/)
-- [微博](http://weibo.com/您呼叫的用户正在长头发)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 

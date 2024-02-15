@@ -38,16 +38,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-### 开源项目
-- [博客网站基于nodejs的后端接口](https://github.com/PhilRandWu/node_serve)
-- [算法解析](https://github.com/PhilRandWu/Algorithm_webNote)
-- [php demo](https://github.com/PhilRandWu/closeAd_PHP)
-- [todos](https://github.com/PhilRandWu/todos-App)
-- [uniapp demo](https://github.com/PhilRandWu/uniappTest)
-
-
-- [个人网站](http://120.55.40.96/)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 

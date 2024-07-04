@@ -1,11 +1,5 @@
 ## Hello GitHub Fans 👋
 
-![Metrics](https://metrics.lecoq.io/PhilRandWu?template=classic&config.timezone=Asia%2FShanghai)
-
-[![PhilRandWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilRandWu)](https://github.com/anuraghazra/github-readme-stats)
-
-![PhilRandWu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilRandWu&layout=compact&hide_border=true&langs_count=10)
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 [![Mail Badge](https://img.shields.io/badge/-PhilRandWu@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:PhilRandWu@163.com)](mailto:PhilRandWu@163.com)

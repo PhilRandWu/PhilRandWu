@@ -31,17 +31,12 @@
   <div style="background: #f0fdf4; padding: 15px; border-radius: 8px; width: 100%; max-width: 800px;">
     <h4 style="color: #166534; margin-bottom: 15px;">🖥️ 前端 | Frontend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
       <img src="https://img.shields.io/badge/-ES6+-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Element-409EFF?style=flat-square&logo=Element&logoColor=white" />
       <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Vue%20SSR-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
     </div>
   </div>
 
